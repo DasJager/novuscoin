@@ -1,0 +1,9 @@
+Building novuscoin
+
+See doc/readme-qt.rst for instructions on building novuscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of novuscoin.
+
+See doc/build-*.txt for instructions on building novuscoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of novuscoin.

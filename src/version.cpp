@@ -36,7 +36,7 @@ const std::string CLIENT_NAME("novuscoin");
 // git will put "#define GIT_ARCHIVE 1" on the next line inside archives. $Format:%n#define GIT_ARCHIVE 1$
 #ifdef GIT_ARCHIVE
 #    define GIT_COMMIT_ID ""
-#    define GIT_COMMIT_DATE "Mar 31, 2017"
+#    define GIT_COMMIT_DATE "Apr 1, 2017"
 #endif
 
 #define BUILD_DESC_FROM_COMMIT(maj,min,rev,build,commit) \

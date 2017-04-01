@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = novuscoin-qt
 macx:TARGET = "novuscoin-Qt"
-VERSION = 0.9.1.0
+VERSION = 0.9.1.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
